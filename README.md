@@ -1,4 +1,4 @@
-<img  src="https://www.freepik.com/free-psd/3d-nft-icon-developer-male-illustration_25469811.htm#fromView=search&page=1&position=20&uuid=a32c7f21-823a-4e0c-b595-78120f2abb6f"/>
+
 <h1 align="center">Hi 👋, I'm BISHAL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
