@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [DIGINEST](https://github.com/vishal7602/Diginest)
-
 - 🌱 I’m currently learning **Typescript, angular**
 
 - 👯 I’m looking to collaborate on [ADMITE-WISE](https://github.com/vishal7602/admit-wise)
